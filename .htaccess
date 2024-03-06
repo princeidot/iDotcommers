@@ -1,0 +1,36 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+   
+
+   RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*) /index.php/$1 [L]
+
+RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
+RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,NE,L]
+ RewriteEngine On
+    # # Send Requests To Front Controller...
+    # RewriteCond %{REQUEST_FILENAME} !-d
+    # RewriteCond %{REQUEST_FILENAME} !-f
+    # RewriteRule ^ index.php [L]
+
+RewriteRule ^sitemap_index.xml/?$ sitemap.blade.php
+RewriteRule ^sitemap.xml/(.+)$ allsite.php?strat=$1
+
+ # Redirect To Trailing Slashes If Not A Folder Or A File...
+ 
+ 
+ 
+ RewriteEngine On
+RewriteCond %{HTTP_HOST} ^idotcommers.com [NC]
+RewriteRule ^(.*)$ https://www.idotcommers.com/$1 [L,R=301]
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.idotcommers.com/$1 [R=301,L]
+  
+</IfModule>
