@@ -26,3 +26,18 @@ Citations:
 
 https://github.com/princeidot/iDotcommers/assets/131530732/2c266a7e-7329-442a-ba86-42f93fd029ab
 
+## About Admin Panel
+The admin panel of iDotcommers Digital LLP provides a comprehensive platform for managing various aspects of the website and digital marketing projects. Within the admin panel, users can perform tasks such as adding and editing blogs, managing contact form data, following up on similar package data, documenting completed projects and client achievements, categorizing content, assigning authors, and editing or deleting entries as needed.
+
+Additionally, the admin panel allows for website audit forms to be accessed and reviewed. This feature enables users to analyze website performance, identify areas for improvement, and optimize the site's functionality and user experience.
+
+For more information about iDotcommers Digital LLP and their digital marketing services, you can visit their LinkedIn page at [iDotcommers Digital LLP - LinkedIn](https://in.linkedin.com/company/idotcommers) or their website at [idotcommers.com](https://www.idotcommers.com/).
+
+
+
+![image_2024_03_13T13_04_38_137Z](https://github.com/princeidot/iDotcommers/assets/131530732/f5574f81-a30a-40ed-abb2-6f07488fa0af)
+
+
+
+https://github.com/princeidot/iDotcommers/assets/131530732/e6eeea86-5696-4d2f-adc0-38b8537fa491
+
