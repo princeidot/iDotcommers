@@ -33,17 +33,21 @@ Additionally, the admin panel allows for website audit forms to be accessed and 
 
 For more information about iDotcommers Digital LLP and their digital marketing services, you can visit their LinkedIn page at [iDotcommers Digital LLP - LinkedIn](https://in.linkedin.com/company/idotcommers) or their website at [idotcommers.com](https://www.idotcommers.com/).
 
-
-
 ![image_2024_03_13T13_04_38_137Z](https://github.com/princeidot/iDotcommers/assets/131530732/f5574f81-a30a-40ed-abb2-6f07488fa0af)
-
-
 
 https://github.com/princeidot/iDotcommers/assets/131530732/e6eeea86-5696-4d2f-adc0-38b8537fa491
 
 ## About CRM
 
+The CRM developed by iDotcommers Digital LLP serves as a robust lead management system designed to streamline and optimize the lead handling process. Within this CRM, users have the capability to categorize leads into various categories such as sub-admin, dead leads, and warm leads. This segmentation allows for efficient lead tracking and management.
+Users can edit lead information, prioritize warm leads for immediate follow-up, and take necessary actions to nurture and convert leads effectively. The CRM empowers users to maintain an organized list of leads, track interactions, and implement strategies to enhance lead conversion rates.
+
+By incorporating features like sub-admin access, lead categorization, and action tracking, the iDotcommers CRM provides a comprehensive solution for managing leads efficiently and maximizing conversion opportunities.
+
+For more information about iDotcommers Digital LLP and their CRM solutions, you can visit their LinkedIn page at iDotcommers Digital LLP - LinkedIn or their website at idotcommers.com.
 
 
 https://github.com/princeidot/iDotcommers/assets/131530732/f6bf8477-ac61-483e-9e26-1a04cf411b69
+
+https://github.com/princeidot/iDotcommers/assets/131530732/41059347-394b-4749-b6dc-56d029c8894c
 
