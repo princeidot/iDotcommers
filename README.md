@@ -41,3 +41,9 @@ For more information about iDotcommers Digital LLP and their digital marketing s
 
 https://github.com/princeidot/iDotcommers/assets/131530732/e6eeea86-5696-4d2f-adc0-38b8537fa491
 
+## About CRM
+
+
+
+https://github.com/princeidot/iDotcommers/assets/131530732/f6bf8477-ac61-483e-9e26-1a04cf411b69
+
